@@ -2,7 +2,7 @@
 
 ===========================
 
-A simple web browser view controller instantied view blocks.
+A simple web browser view controller instantiated view blocks.
 Uses a UINavigationBar for dismiss and refresh actions.
 
 Try out the demo project
