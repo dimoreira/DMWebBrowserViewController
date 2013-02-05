@@ -32,7 +32,7 @@ DMWebBrowserViewController *webBrowser = [[DMWebBrowserViewController alloc]
 
 # License
 
-Copyright (c) 2008-2012 Sam Soffes
+Copyright (c) 2013 Diego Moreira
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
